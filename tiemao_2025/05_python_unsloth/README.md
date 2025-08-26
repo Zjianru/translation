@@ -50,7 +50,7 @@ Bing的人工智能说不支持MAC。
 
 使用git下载代码:
 
-```
+```sh
 mkdir -p ~/GITHUB_ALL
 
 cd ~/GITHUB_ALL

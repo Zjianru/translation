@@ -7,6 +7,7 @@
 在线: GPT, Gemini, GLM4, Claude, 豆包
 开源: GPT-OSS, Gemma, Llama, Baichuan, QWen*, kimi, DeepSeek;
 
+开源的类型: 模型/代码/训练数据
 
 ## 2、云服务产品:
 
