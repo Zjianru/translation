@@ -1,5 +1,7 @@
 # 1分钟使用ssh-keygen生成RSA公私钥
 
+[TOC]
+
 ## 1. 背景
 
 换了个Mac用户, 需要重新配置相关的环境
@@ -92,6 +94,6 @@ ssh -T git@github.com
 
 ## 4. 参考链接
 
-
+- [Error: Permission denied (publickey) - GitHub](https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-denied-publickey)
 
 
