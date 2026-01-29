@@ -4,10 +4,13 @@
 
 ## 1、 分类: 
 
-在线: GPT, Gemini, GLM4, Claude, 豆包
+在线: GPT, Gemini, GLM4, Claude, 豆包, 元宝
 开源: GPT-OSS, Gemma, Llama, Baichuan, QWen*, kimi, DeepSeek;
 
 开源的类型: 模型/代码/训练数据
+
+可参考: https://www.cerehub.com/company
+
 
 ## 2、云服务产品:
 
@@ -18,6 +21,10 @@
 
 视频识别: https://cloud.tencent.com/product/vm
 
+JoyCaption 反推提示词: https://huggingface.co/spaces/fancyfeast/joy-caption-beta-one
+
+
+ecs.gn8v-4x.24x
 
 ## 3、 GPU出租
 
@@ -53,12 +60,44 @@ https://www.zhihu.com/question/610020460/answer/3102134901
 ```
 
 
+Build a Large Language Model (From Scratch)
+
+> https://github.com/rasbt/LLMs-from-scratch/
+
+
+### 4.1 AI 开发框架/工具
+
+llamaindex
+Langchain(工作流编排)
+Dify
+MLflow
+
+
+Claude
+Cline
+
+Cursor/Trae
+
+cherry studio
+
+lmStudio
+ComfyUI
+
+
 ## 5、技术方向
 
 大模型: RAG/Agent(MCP)/微调(LoRA);
 
 大模型部署与调用, 
-Agent: 中介助手, MCP (Model Context Protocol), Tool , Function calling,
+Agent: 智能体, 中介助手,~=插件
+
+Coze, n8n,
+
+
+MCP (Model Context Protocol), Tool , Function calling, 
+
+MongoDB MCP Server - 结构化数据
+
 
 Embding,
 微调(LoRA);
@@ -80,6 +119,8 @@ Agent开发,
 
 System Prompt: 人设: 角色, 性格, 背景, 语气;
 User Prompt: 用户问题, 用户提示词;
+
+Context - 数据库;
 
 
 
@@ -103,6 +144,7 @@ User Prompt: 用户问题, 用户提示词;
 - [Hugging Face](https://huggingface.co/)
 - [Wandb: Weights & Biases](https://wandb.ai/site)
 - [Claude](https://claude.ai/login)
+- [Wan2.2](https://wan.video/)
 
 
 
